@@ -1,3 +1,10 @@
+# Description
+
+This is a platform to manage contractors in a building investment.
+You can build here a contractors and subcontractors database.
+You can also collect and manage here offers of contractors/subcontractors.
+Enjoy!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
